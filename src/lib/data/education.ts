@@ -9,22 +9,22 @@ export const items: Array<Education> = [
 		logo: Assets.Unknown,
 		name: '',
 		organization: 'SASTRA University',
-		period: { from: new Date(2016, 11, 7), to: new Date(2020, 20, 5) },
+		period: { from: new Date(2016, 7, 11), to: new Date(2020, 5, 20) },
 		shortDescription: '',
 		slug: 'dummy-education-item',
-		subjects: ['C', 'Algorithm', 'Algebra', 'Python', 'C++', 'Java', 'English']
+		subjects: ['Data Structures & Algorithms', 'Software Engineering', 'Database Management', 'Operating Systems', 'Web Technologies', 'Python Programming']
 	},
 	{
-		degree: 'Masters Degree in Computer Science',
+		degree: 'Master of Science in Computer Science',
 		description: '',
 		location: 'USA',
 		logo: Assets.Unknown,
 		name: '',
 		organization: 'Arizona State University',
-		period: { from: new Date(2022, 17, 8), to: new Date(2024, 4, 5) },
+		period: { from: new Date(2022, 8, 17), to: new Date(2024, 5, 4) },
 		shortDescription: '',
 		slug: 'dummy-education-item-2',
-		subjects: ['Assembly', 'Rust', 'Computer Architecture', 'Algorithms and Data structures']
+		subjects: ['Cloud Computing', 'Data Mining', 'Machine Learning', 'Data Visualizatin', 'Software Verification & Testing']
 	}
 ];
 
